@@ -1,0 +1,5 @@
+₹
+http://www.wamp.nimit:8089/
+
+
+http://www.wamp.nimit:8089/bsc-cs-2020/vehicle_db/
